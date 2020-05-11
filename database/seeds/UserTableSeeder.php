@@ -20,7 +20,7 @@ class UserTableSeeder extends Seeder
         	'avatar' => 'yug.jpg',
         	'gender' => 'Male',
         	'country' => 'India',
-        	'password' => '21march2006'
+        	'password' => '21march2006',
           'created_at' => date("Y/m/d")
         ]);
     }
