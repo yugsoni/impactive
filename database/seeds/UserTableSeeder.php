@@ -20,7 +20,7 @@ class UserTableSeeder extends Seeder
         	'avatar' => 'yug.jpg',
         	'gender' => 'Male',
         	'country' => 'India',
-        	'password' => '$2y$10$RFhFUNMt2Wz97w0oXeAZF.wxSy0SJgz4sPsz4DcrVTujmlCvJBPvu 	 '
+        	'password' => '21march2006'
         ]);
     }
 }
