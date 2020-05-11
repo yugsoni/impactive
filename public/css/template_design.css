@@ -1,0 +1,46 @@
+.main-box{ 
+	border: 6px solid #6966ce;
+	height: 100%;
+	padding: 20px; 
+}
+ .box_main{
+	border: 5px solid black;
+  	height: 400px;
+  	background-position: top;
+  	background-size: cover;
+  	transition: 1s;
+}
+.box_main:hover{
+  	background-position: bottom;
+  	box-shadow: 0 20px 30px rgba(0,0,0,.5);
+}
+.btn-outline-info{
+	border: 5px solid;
+}
+.btn-outline-primary{
+	border: 5px solid;
+}
+.nice{
+	margin-top: 30px;
+}
+#preview{
+	margin-bottom: 100px;
+}
+#preview_img{
+	border: 5px solid black;
+  	height: 500px;
+  	background-position: top;
+  	background-size: cover;
+  	transition: 1s;
+}
+#preview_img:hover{
+  	background-position: bottom;
+  	box-shadow: 0 20px 30px rgba(0,0,0,.5);
+}
+#theme_detail{
+	padding-left: 100px;
+	word-wrap: break-word;
+}
+#theme_detail b{
+	line-height: 1.5; 
+}

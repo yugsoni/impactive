@@ -1,0 +1,20 @@
+{
+ "listItems": [
+    	{"name":"Dashboard", "url":"dashboard-analytics","icon":"feather icon-layout"},
+		{"name":"Home", "url":"/home","icon":"feather icon-home"},
+		{"name":"About", "url":"/about","icon":"feather icon-clipboard"},
+		{"name":"Services", "url":"/service","icon":"feather icon-home"},
+		{"name":"Portfolio", "url":"/portfolio","icon":"feather icon-home"},
+		{"name":"Packages", "url":"/pakage","icon":"feather icon-home"},
+		{"name":"Blog", "url":"/blog","icon":"feather icon-home"},
+		{"name":"Templates", "url":"/templates","icon":"feather icon-home"},
+
+
+		{"name":"Profile", "url":"/profile","icon":"feather icon-user"},
+		{"name":"Edit Profile", "url":"/profile-edit","icon":"feather icon-settings"},
+		{"name":"Chat", "url":"/app-chat","icon":"feather icon-message-square"},
+		{"name":"All Users", "url":"/all-users","icon":"feather icon-users"},
+		{"name":"Add Category", "url":"/category","icon":"feather icon-edit"},
+		{"name":"View All Categories", "url":"/see-category","icon":"feather icon-eye"}
+ ]
+}

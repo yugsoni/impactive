@@ -1,0 +1,45 @@
+.your-cursor2 {
+	position: absolute;
+	background-color: #6865ce;
+	width: 10px;
+	height: 10px;
+	border-radius: 100%;
+	z-index: 1;
+	transition: 0.3s cubic-bezier(0.75, -1.27, 0.3, 2.33) transform, 0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity;
+	user-select: none;
+	pointer-events: none;
+	z-index: 10000;
+	transform: scale(1);
+}
+.your-cursor2.active {
+	opacity: 0.5;
+	transform: scale(0);
+}
+.your-cursor2.hovered {
+	opacity: 0.08;
+}
+
+.follow2 {
+	position: absolute;
+	background-color: cyan;
+	width: 20px;
+	height: 20px;
+	border-radius: 100%;
+	z-index: 1;
+	transition: 0.6s cubic-bezier(0.75, -1.27, 0.3, 2.33) transform, 0.2s cubic-bezier(0.75, -0.27, 0.3, 1.33) opacity;
+	user-select: none;
+	pointer-events: none;
+	z-index: 10000;
+	transform: translate(5px, 5px);
+}
+.follow2.active {
+	opacity: 0.7;
+	transform: scale(3);
+}
+.follow2.hovered {
+	opacity: 0.08;
+}
+
+*{
+	cursor: none;
+}

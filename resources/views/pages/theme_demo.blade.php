@@ -1,0 +1,1 @@
+{{ dd($view_theme_demo->theme_file) }}

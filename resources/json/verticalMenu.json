@@ -1,0 +1,16 @@
+{"menu": [
+{"url":"dashboard-analytics", "name":"Dashboard", "icon":"feather icon-layout", "i18n":"nav.dashboard_analytics"},
+    {"url":"","navheader":"Apps","icon":""},
+        {"url":"profile", "name":"Profile", "icon":"feather icon-user-plus", "i18n":"nav.profile"},
+        {"url":"profile-edit", "name":"Edit Profile", "icon":"feather icon-settings", "i18n":"nav.profile"},
+        {"url":"app-chat", "name":"Chat", "icon":"feather icon-message-square", "i18n":"nav.app_chat"},
+        {"url":"all-users", "name":"All Users", "icon":"feather icon-users", "i18n":"nav.app_chat"},
+    {"url":"","navheader":"Themes"," icon":"feather icon-home"},
+        {"url":"category", "name":"Add Category", "icon":"feather icon-edit", "i18n":"nav.category"},
+        {"url":"see-category", "name":"View All Categories", "icon":"feather icon-eye", "i18n":"nav.view_category"},
+        {"url":"theme-create", "name":"Add Themes", "icon":"feather icon-plus", "i18n":"nav.app_chat"},
+        {"url":"theme-view", "name":"View All Themes", "icon":"feather icon-hard-drive", "i18n":"nav.app_chat"},
+        {"url":"queued_theme", "name":"Queued Themes", "icon":"feather icon-briefcase", "i18n":"nav.app_chat"}
+
+]}
+
