@@ -21,6 +21,7 @@ class UserTableSeeder extends Seeder
         	'gender' => 'Male',
         	'country' => 'India',
         	'password' => '21march2006'
+          'created_at' => date("Y/m/d")
         ]);
     }
 }
